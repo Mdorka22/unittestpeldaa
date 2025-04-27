@@ -52,3 +52,28 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Visual Studio related
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains IDE-k
+.idea/
+*.sln.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Windows Thumbnail cache
+ehthumbs.db
+
+# Local history for Visual Studio
+_LocalHistory/
+
+# Recycle Bin used by VS
+$RECYCLE.BIN/
